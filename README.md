@@ -1,0 +1,2 @@
+"Embark on an engaging journey with our 'Emoji Guessing Game' powered by JavaScript. Challenge yourself against the clock to correctly identify emojis within a specified timeframe. Each correct answer boosts your score, while any incorrect guesses prompt immediate feedback. Complete all guesses accurately, and revel in a congratulatory message celebrating your triumph. 
+Test your emoji deciphering skills, beat the clock, and enjoy the thrill of this interactive and entertaining gaming experience!"
